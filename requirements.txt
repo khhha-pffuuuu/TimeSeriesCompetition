@@ -1,0 +1,13 @@
+category-encoders
+# scikit-optimize
+scikit-learn
+matplotlib
+squarify
+IPython
+xgboost
+seaborn
+pandas
+torch
+skopt
+numpy
+tqdm
